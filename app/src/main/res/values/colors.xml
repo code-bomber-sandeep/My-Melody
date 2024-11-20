@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background_color">#FF5722</color>
+    <color name="pri">#1B1A1C</color>
+    <color name="sec">#151515</color>
+    <color name="acc">#FFFFFF</color>
+    <color name="purple">#8692f7</color>
+    <color name="or">#F77F00</color>
+    <color name="or1">#E85D04</color>
+    <color name="or2">#F3722C</color>
+
+
+</resources>
